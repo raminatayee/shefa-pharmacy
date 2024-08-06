@@ -7,8 +7,8 @@ body {
 }
 header {
   background: linear-gradient(rgb(0, 134, 134), rgb(0, 255, 255));
-  height: 80px;
   width: 100%;
+  height: 80px;
   border-bottom: solid 8px rgb(255, 255, 255);
 }
 header img {
@@ -38,6 +38,7 @@ header ul li a:hover {
 }
 .section1 {
   background: linear-gradient(rgb(0, 255, 255), rgb(0, 155, 155));
+  width: 100%;
   height: 450px;
   background-size: cover;
   position: relative;
