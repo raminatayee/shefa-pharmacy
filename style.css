@@ -54,10 +54,10 @@ header ul li a:hover {
   top: 10px;
   left: 5%;
 }
-.Pharmacy {
+.img .Pharmacy {
   display: flex;
   width: 520px;
-  height: 480px;
+  height: 430px;
   position: absolute;
   top: 0;
   right: 10%;
