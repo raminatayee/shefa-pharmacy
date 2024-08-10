@@ -104,3 +104,22 @@ header ul li a:hover {
   width: 90%;
   font-size: 20px;
 }
+
+.section3 .container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.section3 .item {
+  width: 400px;
+  height: 450px;
+  background-color: rgb(10, 112, 78);
+  margin: 20px;
+  border-radius: 10px;
+}
+.section3 .item img {
+  width: 400px;
+  height: 250px;
+  border-radius: 10px;
+}
